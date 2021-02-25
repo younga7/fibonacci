@@ -1,7 +1,7 @@
 # CS362 test_fibonacci
 # Alex Young
 # 2/25/2021
-# Run this file using python3 test_fibonacci.py
+# Run this file using python3 test_fibonacci.py or just pytest
 # This program holds funtions to unit test for the fibonacci sequence
 
 import unittest
