@@ -1,7 +1,7 @@
 # CS362 In class activity
 # Alex Young
 # 2/25/2021
-# Run this file using python3 HW4.py
+# Run this file using python3 fibonacci.py
 # This program returns a value in the fibonacci sequenec
 
 def series(x):
